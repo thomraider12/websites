@@ -118,3 +118,8 @@
 24. **Gerar Faturas**
     - Cria faturas automaticamente, guardando o nome, email e imagem do negócio. Clica [aqui](https://thomraider12.github.io/faturas).  
       ![](https://github.com/thomraider12/faturas/raw/main/screenshot.png)
+      
+25. **Jogo da Memória**
+
+   - Um jogo de memória clássico onde os utilizadores precisam de encontrar pares de cartas. Clica [aqui](https://thomraider12.github.io/jogomemoria).  
+     ![](https://raw.githubusercontent.com/thomraider12/jogomemoria/refs/heads/main/screenshot.png)
